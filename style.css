@@ -212,13 +212,13 @@ font-size: 30rem;
    margin-top: 2rem;
    max-width: 30rem;
    min-width: 29rem;
-   max-height:34.2rem
+   height:34.2rem
    
    
     
 }
 .card:nth-child(7) .text{
-    padding:1rem;}
+    padding:1.5rem;}
 .card img {
     width: 100%;
     border-top-left-radius: 20px;
