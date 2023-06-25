@@ -218,7 +218,7 @@ font-size: 30rem;
     
 }
 .card:nth-child(7) .text{
-    padding:0;}
+    padding:1rem;}
 .card img {
     width: 100%;
     border-top-left-radius: 20px;
