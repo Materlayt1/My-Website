@@ -365,5 +365,7 @@ font-size: 30rem;
     width: 100%;
     display: block;
 }
+    .card:nth-child(7) .text{
+    padding:0;}
 
 }
